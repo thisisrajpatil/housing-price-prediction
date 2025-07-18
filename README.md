@@ -22,4 +22,4 @@ This project applies data science and regression techniques to predict house pri
 - King County Housing Data: [Coursera CognitiveClass](https://www.coursera.org/learn/data-analysis-with-python)
 
 ## ✍️ Author
-- Raj S Patil
+- Raj Patil
